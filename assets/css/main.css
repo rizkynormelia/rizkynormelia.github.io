@@ -1306,7 +1306,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay3.png"), url("images/bg2.jpg");
+		background-image: url("images/overlay3.png"), url("images/bg3.jpg");
 		background-repeat: repeat, repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
